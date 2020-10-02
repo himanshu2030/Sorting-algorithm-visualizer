@@ -1,0 +1,22 @@
+{
+  "name": "sorting-algorithm-visualizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshu2030/Sorting-algorithm-visualizer.git"
+  },
+  "keywords": [
+    "sorting"
+  ],
+  "author": "Himanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshu2030/Sorting-algorithm-visualizer/issues"
+  },
+  "homepage": "https://github.com/himanshu2030/Sorting-algorithm-visualizer#readme"
+}
